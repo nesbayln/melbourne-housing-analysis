@@ -31,7 +31,6 @@ Comparing the two models showed that the Random Forest approach significantly re
 According to the Feature Importance analysis, the most critical factors affecting house prices in Melbourne are **Location (Lattitude/Longitude)** and **Room Count**.
 
 ---
-*(Turkish Summary below)*
 
 ##  Türkçe Özet
 Bu projede, Melbourne emlak verilerini kullanarak ev fiyatlarını tahmin eden bir makine öğrenmesi modeli geliştirdim.
